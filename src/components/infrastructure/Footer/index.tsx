@@ -18,7 +18,7 @@ const Footer: React.FunctionComponent = () => {
       <div className={`row-container ${styles.container}`}>
         <div className="row">
           <div className={`${styles.logoWrapper} col-12`}>
-            <img src="/assets/logos/logo.svg" alt="tin foil hat logo" />
+            <img src="/assets/logos/logo.svg" alt="tinfoil hat logo" />
           </div>
         </div>
         <div className={`row ${styles.content}`}>
